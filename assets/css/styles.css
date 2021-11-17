@@ -139,11 +139,19 @@ nav {
 }
 
 .benefits-inner ul li {
-    color:var(--clr-secondary);
+    color: var(--clr-secondary);
     list-style-type: none;
     font-style: normal;
     font-size: 1.125em;
+    padding: 2em 0em; 
 }
 
+.benefits-list-1{
+    float: left;
+}
+
+.benefits-list-2{
+    float: right;
+}
 
 
