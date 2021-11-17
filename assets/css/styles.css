@@ -87,4 +87,8 @@ nav {
     font-weight: 500;
 }
 
+.hero-btn:hover{
+    background-color: var(--clr-primary);
+}
+
 
