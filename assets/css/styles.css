@@ -119,6 +119,7 @@ nav {
 /* about section */
 
 .about {
+    background-color: var(--clr-secondary);
     display: flex;
     justify-content: center;
 }
@@ -154,4 +155,16 @@ nav {
 .benefits-container i {
     color: lightgreen;
     font-size: 1.25em;
+}
+
+/* try it section */
+.try-it{
+    background-color: var(--clr-secondary);
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.try-it-container {
+    max-width: 1440px;
 }
