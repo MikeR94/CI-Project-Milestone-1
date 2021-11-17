@@ -37,6 +37,7 @@ p{
 .logo {
     color: var(--clr-secondary);
     font-size: 1.5em;
+    margin-left: 1em;
 }
 
 header {
@@ -57,6 +58,7 @@ nav {
 
 .navbar-links ul {
     display: flex;
+    margin-right: 0.7em;
 }
 
 .navbar-links ul li {
