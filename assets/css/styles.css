@@ -74,6 +74,7 @@ nav {
 
 .navbar-links li:hover {
     background-color: var(--clr-tertiary);
+    transition: ease-in 300ms;
 }
 
 /* hero section */
@@ -109,6 +110,7 @@ nav {
 
 .hero-btn:hover{
     background-color: var(--clr-primary);
+    transition: ease-in 300ms;
 }
 
 /* about section */
