@@ -69,4 +69,22 @@ nav {
     font-family: "Poppins", sans-serif;
     color: var(--clr-secondary);
     font-size: 3em;
+    margin-bottom: 0.5em;
 }
+
+.hero-inner{
+    text-align: center;
+}
+
+.hero-btn{
+    background-color: var(--clr-tertiary);
+    color: var(--clr-secondary);
+    text-decoration: none;
+    padding: 0.8em 2em;
+    border-radius: 8px;
+    font-size: 1.18em;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+
+
