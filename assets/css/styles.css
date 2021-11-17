@@ -65,4 +65,8 @@ nav {
     align-items: center;
 }
 
-
+.hero h1{
+    font-family: "Poppins", sans-serif;
+    color: var(--clr-secondary);
+    font-size: 3em;
+}
