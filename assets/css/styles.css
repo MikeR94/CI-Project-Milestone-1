@@ -97,7 +97,7 @@ nav {
     margin-bottom: 0.5em;
 }
 
-.hero-inner {
+.hero-container {
     text-align: center;
 }
 
@@ -123,7 +123,7 @@ nav {
     justify-content: center;
 }
 
-.about-inner {
+.about-container {
     max-width: 1440px;
 }
 
@@ -134,7 +134,7 @@ nav {
     margin-top: 2em;
 }
 
-.benefits-inner {
+.benefits-container {
     max-width: 1440px;
     display: flex;
     justify-content: space-between;
@@ -143,7 +143,7 @@ nav {
     padding: 3.125em 1.5em;
 }
 
-.benefits-inner ul li {
+.benefits-container ul li {
     color: var(--clr-secondary);
     list-style-type: none;
     font-style: normal;
@@ -151,7 +151,7 @@ nav {
     padding: 2em 0em;
 }
 
-.benefits-inner i {
+.benefits-container i {
     color: lightgreen;
     font-size: 1.25em;
 }
