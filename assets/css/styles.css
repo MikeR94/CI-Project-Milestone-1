@@ -27,7 +27,7 @@ p{
     color: var(--clr-text-black);
     font-style: normal;
     font-weight: 400;
-    font-size: 1em;
+    font-size: 1.125em;
     line-height: 2em;
     padding: 0px 20px 0px 20px;
 }
@@ -123,4 +123,26 @@ nav {
 .about-inner{
     max-width: 1440px;
 }
+
+.benefits{
+    background-color: var(--clr-primary);
+}
+
+.benefits-inner{
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    padding: 3.125em 1.5em;
+}
+
+.benefits-inner ul li {
+    color:var(--clr-secondary);
+    list-style-type: none;
+    font-style: normal;
+    font-size: 1.125em;
+}
+
+
 
