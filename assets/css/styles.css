@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Peddana&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --clr-primary: #5e4f9c;
+    --clr-secondary: #fff;
+}
+
+header{
+    position: fixed;
+    background-color: var(--clr-primary);
+    width: 100%;
+    z-index: 10;
+}
+
+nav{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.logo{
+    color: var(--clr-secondary)
+}
