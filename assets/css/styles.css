@@ -12,6 +12,8 @@
     --clr-tertiary: #ec689d;
 }
 
+/* navigation bar */
+
 .logo {
     color: var(--clr-secondary);
     font-size: 1.5em;
@@ -48,6 +50,9 @@ nav {
     padding: 1em;
 }
 
-.navbar-links li:hover{
+.navbar-links li:hover {
     background-color: var(--clr-tertiary)
 }
+
+/* hero section */
+
