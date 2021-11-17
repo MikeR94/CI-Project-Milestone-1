@@ -27,6 +27,20 @@ nav{
     margin: 0 auto;
 }
 
+.navbar-links ul{
+    display: flex;
+}
+
+.navbar-links ul li {
+    list-style: none;
+}
+
+.navbar-links ul li a {
+    display: block;
+    text-decoration: none;
+    color: var(--clr-secondary);
+    padding: 1em;
+}
 
 .logo{
     color: var(--clr-secondary)
