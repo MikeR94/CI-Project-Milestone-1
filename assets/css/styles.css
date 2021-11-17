@@ -21,6 +21,7 @@ h2{
     font-size: 1.5em;
     line-height: 3em;
     padding: 0px 20px 0px 20px;
+    margin-bottom: 1em;
 }
 
 p{
@@ -125,6 +126,8 @@ nav {
     max-width: 1440px;
 }
 
+/* benefits section */
+
 .benefits{
     background-color: var(--clr-primary);
 }
@@ -146,12 +149,11 @@ nav {
     padding: 2em 0em; 
 }
 
-.benefits-list-1{
-    float: left;
+.benefits-inner i {
+    color: lightgreen;
+    font-size: 1.25em;
 }
 
-.benefits-list-2{
-    float: right;
-}
+
 
 
