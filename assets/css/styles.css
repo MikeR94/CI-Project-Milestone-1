@@ -11,6 +11,25 @@
     --clr-primary: #5e4f9c;
     --clr-secondary: #fff;
     --clr-tertiary: #ec689d;
+    --clr-text-black: #000;
+}
+
+h2{
+    color: var(--clr-primary);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5em;
+    line-height: 3em;
+    padding: 0px 20px 0px 20px;
+}
+
+p{
+    color: var(--clr-text-black);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 2em;
+    padding: 0px 20px 0px 20px;
 }
 
 /* navigation bar */
@@ -89,5 +108,7 @@ nav {
 .hero-btn:hover{
     background-color: var(--clr-primary);
 }
+
+/* about section */
 
 
