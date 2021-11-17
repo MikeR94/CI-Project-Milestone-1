@@ -51,7 +51,7 @@ nav {
 }
 
 .navbar-links li:hover {
-    background-color: var(--clr-tertiary)
+    background-color: var(--clr-tertiary);
 }
 
 /* hero section */
@@ -60,4 +60,9 @@ nav {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/images/Hero\ BG.jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
