@@ -14,7 +14,7 @@
     --clr-text-black: #000;
 }
 
-h2{
+h2 {
     color: var(--clr-primary);
     font-style: normal;
     font-weight: 600;
@@ -24,7 +24,7 @@ h2{
     margin-bottom: 1em;
 }
 
-p{
+p {
     color: var(--clr-text-black);
     font-style: normal;
     font-weight: 400;
@@ -81,7 +81,7 @@ nav {
 
 /* hero section */
 
-.hero{
+.hero {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/images/Hero\ BG.jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
@@ -91,17 +91,17 @@ nav {
     margin-bottom: 2em;
 }
 
-.hero h1{
+.hero h1 {
     color: var(--clr-secondary);
     font-size: 3em;
     margin-bottom: 0.5em;
 }
 
-.hero-inner{
+.hero-inner {
     text-align: center;
 }
 
-.hero-btn{
+.hero-btn {
     background-color: var(--clr-tertiary);
     color: var(--clr-secondary);
     text-decoration: none;
@@ -111,30 +111,30 @@ nav {
     font-weight: 500;
 }
 
-.hero-btn:hover{
+.hero-btn:hover {
     background-color: var(--clr-primary);
     transition: ease-in 300ms;
 }
 
 /* about section */
 
-.about{
+.about {
     display: flex;
     justify-content: center;
 }
 
-.about-inner{
+.about-inner {
     max-width: 1440px;
 }
 
 /* benefits section */
 
-.benefits{
+.benefits {
     background-color: var(--clr-primary);
     margin-top: 2em;
 }
 
-.benefits-inner{
+.benefits-inner {
     max-width: 1440px;
     display: flex;
     justify-content: space-between;
@@ -148,14 +148,10 @@ nav {
     list-style-type: none;
     font-style: normal;
     font-size: 1.125em;
-    padding: 2em 0em; 
+    padding: 2em 0em;
 }
 
 .benefits-inner i {
     color: lightgreen;
     font-size: 1.25em;
 }
-
-
-
-
