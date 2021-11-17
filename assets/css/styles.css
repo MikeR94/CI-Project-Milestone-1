@@ -88,6 +88,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 2em;
 }
 
 .hero h1{
@@ -130,6 +131,7 @@ nav {
 
 .benefits{
     background-color: var(--clr-primary);
+    margin-top: 2em;
 }
 
 .benefits-inner{
