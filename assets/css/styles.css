@@ -170,3 +170,11 @@ nav {
 .try-it-container {
   max-width: 1440px;
 }
+
+.tutorial-container {
+    display: flex;
+    max-width: 1440px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto; 
+}
