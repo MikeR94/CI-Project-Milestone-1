@@ -308,6 +308,13 @@ footer{
   width: 100%;
 }
 
+footer h2 {
+  font-size: 1.125em;
+  color:var(--clr-text-black);
+  margin: 0.5em;
+  font-weight: normal;
+}
+
 .footer-container {
   display: flex;
   justify-content: space-between;
