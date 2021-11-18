@@ -215,3 +215,10 @@ nav {
   color: var(--clr-primary);
   font-size: 1.125em;
 }
+
+hr {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
