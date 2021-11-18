@@ -223,8 +223,8 @@ nav {
 hr {
   max-width: 1440px;
   margin: 0 auto;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 0.7em;
+  margin-bottom: 2.5em;
 }
 
 /* contact section */
