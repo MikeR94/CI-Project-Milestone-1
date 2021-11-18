@@ -196,3 +196,8 @@ nav {
   padding: 0px 20px 0px 20px;
   font-size: 1.125em;
 }
+
+.steps i {
+  color: var(--clr-primary);
+  font-size: 1.125em;
+}
