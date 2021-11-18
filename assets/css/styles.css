@@ -293,6 +293,10 @@ form label {
   right: 50px;
 }
 
-.contact-right h2, p{
+.contact-right h2{
+  color: var(--clr-secondary);
+}
+
+.contact-right p{
   color: var(--clr-secondary);
 }
