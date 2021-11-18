@@ -172,11 +172,11 @@ nav {
 }
 
 .tutorial-container {
-    display: flex;
-    max-width: 1440px;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 0 auto; 
+  display: flex;
+  max-width: 1440px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 .steps {
@@ -189,7 +189,7 @@ nav {
   margin: 2.5em;
 }
 
-.video-wrapper{
+.video-wrapper {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
