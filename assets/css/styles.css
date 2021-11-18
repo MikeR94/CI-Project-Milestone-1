@@ -150,6 +150,7 @@ nav {
   font-style: normal;
   font-size: 1.125em;
   padding: 2em 0em;
+  margin-left: 1em;
 }
 
 .benefits-container i {
@@ -257,7 +258,6 @@ form label {
   padding: 0.5em 0.625em;
   border: 1px solid var(--clr-secondary);
   transition: all 300ms ease;
-  font-size: 1.125em;
   margin-bottom: 1.25em;
   margin-top: 0.5em;
 }
@@ -351,7 +351,7 @@ footer h2 {
 
 /* ipad size */
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 792px){
   .hero{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url(/assets/images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
@@ -362,6 +362,19 @@ footer h2 {
   .hero h1{
     padding: 0em 1em;
   }
+
+  .benefits-container {
+    justify-content: center;
+  }
+
+  .contact-right{
+    display: none;
+  }
+
+  form{
+    margin: 0 auto;
+  }
+
 }
 
 @media screen and (max-width: 500px){
@@ -372,5 +385,66 @@ footer h2 {
   .hero-btn{
     font-size: 1em;
   }
+
+  .about-container {
+    text-align: center;
+  }
+
+  .benefits-container ul li {
+    font-size: 0.97em;
+  }
+
+  .try-it-container{
+    text-align: center;
+  }
+
+  .tutorial-container{
+    display: block;
+  }
+
+  .steps ul {
+    display: none;
+  }
+
+  .steps h2 {
+    text-align: center;
+  }
+
+  p{
+    font-size: 1em;
+  }
+
+  h2 {
+    font-size: 1.125em;
+  }
+
+  form {
+    padding: 3.7em;
+  }
+
+  .footer-links ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-links li{
+    padding: 5px;
+  }
+
+  .footer-links a{
+    font-size: 2em;
+  }
+
+  .footer-container{
+    display: block;
+    text-align: center;
+  }
+
+  .footer-container h2{
+    font-size: 1em;
+  }
+
 }
 
