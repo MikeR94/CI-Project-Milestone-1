@@ -245,5 +245,14 @@ form {
 }
 
 form label {
-  color:var(--clr-secondary);
+  color: var(--clr-secondary);
+  font-size: 1.125em;
+}
+
+.input, textarea{
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  padding: 0.5em 0.625em;
+  border: 1px solid var(--clr-secondary);
 }
