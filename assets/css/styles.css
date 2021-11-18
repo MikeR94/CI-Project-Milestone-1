@@ -82,7 +82,7 @@ nav {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/images/Hero\ BG.jpg) no-repeat center center;
+    url(../assets/images/Hero\ BG.jpg) no-repeat center center;
   background-size: cover;
   height: 1000px;
   display: flex;
@@ -284,13 +284,13 @@ form label {
   right: 0;
   top: 50px;
   width: 600px;
-  height: 680px;
+  height: 580px;
 }
 
 .contact-right img {
   position: absolute;
   bottom: 0;
-  right: 50px;
+  right: 145px;
 }
 
 .contact-right h2{
@@ -354,7 +354,7 @@ footer h2 {
 @media screen and (max-width: 792px){
   .hero{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
+    url(../assets/images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
   }
