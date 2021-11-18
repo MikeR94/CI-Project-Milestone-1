@@ -181,6 +181,8 @@ nav {
 
 .steps {
   flex: 1 1 45%;
+  max-width: 660px;
+  margin: 2.5em;
 }
 
 .video {
