@@ -342,3 +342,7 @@ footer h2 {
   color:var(--clr-primary);
 }
 
+.footer-links i:hover{
+  color:var(--clr-tertiary);
+}
+
