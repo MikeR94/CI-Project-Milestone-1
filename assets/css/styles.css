@@ -282,10 +282,15 @@ form label {
 .contact-right {
   position: absolute;
   right: 0;
-  top: 0;
+  top: 50px;
   width: 600px;
-  height: 580px;
-  background-color: red;
+  height: 680px;
+}
+
+.contact-right img {
+  position: absolute;
+  bottom: 0;
+  right: 50px;
 }
 
 .contact-right h2, p{
