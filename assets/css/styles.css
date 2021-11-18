@@ -260,3 +260,20 @@ form label {
   margin-bottom: 1.25em;
   margin-top: 0.5em;
 }
+
+.form-btn {
+  width: 100%;
+  background-color: var(--clr-tertiary);
+  color: var(--clr-secondary);
+  padding: 0.5em 0.625em;
+  font-size: 1.125em;
+  border: 1px solid var(--clr-tertiary);
+  border-radius: 5px;
+}
+
+.form-btn:hover {
+  background-color: lightgreen;
+  border: 1px solid lightgreen;
+  transition: ease-in 150ms;
+  color: var(--clr-text-black);
+}
