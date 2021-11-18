@@ -178,3 +178,11 @@ nav {
     flex-wrap: wrap;
     margin: 0 auto; 
 }
+
+.steps {
+  flex: 1 1 45%;
+}
+
+.video {
+  flex: 1 1 55%;
+}
