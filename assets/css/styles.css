@@ -180,13 +180,27 @@ nav {
 }
 
 .steps {
-  flex: 1 1 45%;
+  flex: 1 1 55%;
   max-width: 660px;
   margin: 2.5em;
 }
 
-.video {
-  flex: 1 1 55%;
+.video-container {
+  flex: 1 1 45%;
+}
+
+.video-wrapper{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .steps ul li {
