@@ -82,7 +82,7 @@ nav {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../assets/images/Hero\ BG.jpg) no-repeat center center;
+    url(./assets/images/Hero-Background.jpg) no-repeat center center;
   background-size: cover;
   height: 1000px;
   display: flex;
@@ -354,7 +354,7 @@ footer h2 {
 @media screen and (max-width: 792px){
   .hero{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../assets/images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
+    url(./assets/images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
   }
