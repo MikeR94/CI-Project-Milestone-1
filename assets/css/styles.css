@@ -344,5 +344,6 @@ footer h2 {
 
 .footer-links i:hover{
   color:var(--clr-tertiary);
+  transition: ease-in 150ms;
 }
 
