@@ -180,13 +180,13 @@ nav {
 }
 
 .steps {
-  flex: 1 1 55%;
-  max-width: 660px;
-  margin: 2.5em;
+  flex: 1 1 45%;
 }
 
 .video-container {
-  flex: 1 1 45%;
+  flex: 1 1 55%;
+  max-width: 660px;
+  margin: 2.5em;
 }
 
 .video-wrapper{
