@@ -212,7 +212,7 @@ nav {
   font-size: 1.125em;
 }
 
-.steps ul li:last-child{
+.steps ul li:last-child {
   margin-bottom: 2em;
 }
 
@@ -234,7 +234,7 @@ hr {
   background-color: var(--clr-primary);
 }
 
-.contact-container{
+.contact-container {
   max-width: 1440px;
   margin: 0 auto;
   display: flex;
@@ -251,7 +251,8 @@ form label {
   font-size: 1.125em;
 }
 
-.input, textarea{
+.input,
+textarea {
   width: 100%;
   outline: none;
   border-radius: 5px;
@@ -293,24 +294,24 @@ form label {
   right: 145px;
 }
 
-.contact-right h2{
+.contact-right h2 {
   color: var(--clr-secondary);
 }
 
-.contact-right p{
+.contact-right p {
   color: var(--clr-secondary);
 }
 
 /* footer */
 
-footer{
+footer {
   background-color: var(--clr-secondary);
   width: 100%;
 }
 
 footer h2 {
   font-size: 1.125em;
-  color:var(--clr-text-black);
+  color: var(--clr-text-black);
   margin: 0.5em;
   font-weight: normal;
 }
@@ -324,7 +325,7 @@ footer h2 {
   flex-wrap: wrap;
 }
 
-.footer-links ul{
+.footer-links ul {
   display: flex;
 }
 
@@ -338,28 +339,71 @@ footer h2 {
   font-size: 2.5em;
 }
 
-.footer-links i{
-  color:var(--clr-primary);
+.footer-links i {
+  color: var(--clr-primary);
 }
 
-.footer-links i:hover{
-  color:var(--clr-tertiary);
+.footer-links i:hover {
+  color: var(--clr-tertiary);
   transition: ease-in 150ms;
 }
 
 /* media queries */
 
-/* ipad size */
+@media screen and (max-width: 1345px){
+  .tutorial-container{
+    display: block;
+  }
 
-@media screen and (max-width: 792px){
-  .hero{
+  .video-container {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+  }
+}
+
+@media screen and (max-width: 1090px){
+  .contact-right{
+    display: none;
+  }
+
+  form {
+    margin: 0 auto;
+  }
+
+  .footer-links ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-links li {
+    padding: 5px;
+  }
+
+  .footer-links a {
+    font-size: 2em;
+  }
+
+  .footer-container {
+    display: block;
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 792px) {
+  .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
+      url(../images/pexels-elina-fairytale-3822864\ \(1\).jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
   }
 
-  .hero h1{
+  .hero h1 {
     padding: 0em 1em;
   }
 
@@ -367,22 +411,14 @@ footer h2 {
     justify-content: center;
   }
 
-  .contact-right{
-    display: none;
-  }
-
-  form{
-    margin: 0 auto;
-  }
-
 }
 
-@media screen and (max-width: 500px){
-  .hero h1{
+@media screen and (max-width: 500px) {
+  .hero h1 {
     font-size: 2em;
   }
 
-  .hero-btn{
+  .hero-btn {
     font-size: 1em;
   }
 
@@ -394,12 +430,8 @@ footer h2 {
     font-size: 0.97em;
   }
 
-  .try-it-container{
+  .try-it-container {
     text-align: center;
-  }
-
-  .tutorial-container{
-    display: block;
   }
 
   .steps ul {
@@ -410,7 +442,7 @@ footer h2 {
     text-align: center;
   }
 
-  p{
+  p {
     font-size: 1em;
   }
 
@@ -422,29 +454,8 @@ footer h2 {
     padding: 3.7em;
   }
 
-  .footer-links ul {
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-  }
-
-  .footer-links li{
-    padding: 5px;
-  }
-
-  .footer-links a{
-    font-size: 2em;
-  }
-
-  .footer-container{
-    display: block;
-    text-align: center;
-  }
-
-  .footer-container h2{
+  .footer-container h2 {
     font-size: 1em;
   }
 
 }
-
