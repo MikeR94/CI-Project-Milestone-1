@@ -41,6 +41,11 @@ p {
   margin-left: 1em;
 }
 
+.logo i {
+  color: var(--clr-secondary);
+  font-size: 1.2em
+}
+
 header {
   position: fixed;
   background-color: var(--clr-primary);
