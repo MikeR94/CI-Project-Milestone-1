@@ -61,7 +61,7 @@ nav {
   align-items: center;
   max-width: 1440px;
   margin: 0 auto;
-  padding: 1em;
+  padding: 1em 1.25em 1em 1.25em;
 }
 
 .navbar-links ul {
