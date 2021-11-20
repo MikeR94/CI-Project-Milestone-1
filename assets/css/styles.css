@@ -213,7 +213,7 @@ nav {
   margin: 0 auto;
 }
 
-#last-tut-container{
+#last-tut-container {
   margin-bottom: 80px;
 }
 
@@ -523,4 +523,31 @@ footer h2 {
   .footer-container h2 {
     font-size: 1em;
   }
+}
+
+/* test slogan, will implement properly shortly */
+
+.test {
+  width: 100%;
+  background-color: white;
+  padding: 150px;
+}
+
+.test-container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.test-container h3{
+  text-align: center;
+  color: var(--clr-primary);
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-weight: 300;
+}
+
+.test-container h4 {
+  text-align: right;
+  color: var(--clr-text-black);
+  font-size: 10px;
 }
