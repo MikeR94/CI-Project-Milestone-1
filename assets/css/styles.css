@@ -9,10 +9,10 @@
 }
 
 :root {
-  --clr-primary: #5e4f9c;
+  --clr-primary: #a05a6a;
   --clr-secondary: #fff;
   --clr-tertiary: #ec689d;
-  --clr-text-black: #000;
+  --clr-text-black: #2f2f31;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 h2 {
-  color: var(--clr-primary);
+  color: var(--clr-text-black);
   font-style: normal;
   font-weight: 600;
   font-size: 1.5em;
@@ -32,7 +32,7 @@ p {
   color: var(--clr-text-black);
   font-style: normal;
   font-weight: 400;
-  font-size: 1.125em;
+  font-size: 1em;
   line-height: 2em;
   padding: 0px 20px 0px 20px;
   margin-bottom: 1.125em;
@@ -52,7 +52,8 @@ p {
 
 header {
   position: fixed;
-  background-color: var(--clr-primary);
+  background-color: #18191a;
+  opacity: 0.9;
   width: 100%;
   z-index: 10;
 }
@@ -110,8 +111,8 @@ nav {
 /* hero section */
 
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../images/Hero-Background.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(../images/pexels-koolshooters-7346691.jpg) no-repeat center center;
   background-size: cover;
   height: 1000px;
   display: flex;
@@ -131,7 +132,7 @@ nav {
 }
 
 .hero-btn {
-  background-color: var(--clr-tertiary);
+  background-color: #18191a;
   color: var(--clr-secondary);
   text-decoration: none;
   padding: 0.8em 2em;
@@ -169,14 +170,14 @@ nav {
   justify-content: space-between;
   margin: 0 auto;
   flex-wrap: wrap;
-  padding: 3.125em 1.5em;
+  padding: 1em 0.5em;
 }
 
 .benefits-container ul li {
   color: var(--clr-secondary);
   list-style-type: none;
   font-style: normal;
-  font-size: 1.125em;
+  font-size: 1em;
   padding: 2em 0em;
   margin-left: 1em;
 }
@@ -236,7 +237,7 @@ nav {
   list-style-type: none;
   margin-top: 3em;
   padding: 0px 20px 0px 20px;
-  font-size: 1.125em;
+  font-size: 1em;
 }
 
 .steps ul li:last-child {
@@ -258,7 +259,7 @@ hr {
 /* contact section */
 
 .contact {
-  background-color: var(--clr-primary);
+  background-color: var(--clr-text-black);
 }
 
 .contact-container {
@@ -292,11 +293,11 @@ textarea {
 
 .form-btn {
   width: 100%;
-  background-color: var(--clr-tertiary);
+  background-color: var(--clr-primary);
   color: var(--clr-secondary);
   padding: 0.5em 0.625em;
   font-size: 1.125em;
-  border: 1px solid var(--clr-tertiary);
+  border: 1px solid var(--clr-primary);
   border-radius: 5px;
 }
 
@@ -366,7 +367,7 @@ footer h2 {
 }
 
 .footer-links i {
-  color: var(--clr-primary);
+  color: var(--clr-text-black);
 }
 
 .footer-links i:hover {
@@ -422,9 +423,6 @@ footer h2 {
 
 @media screen and (max-width: 792px) {
   .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url(../images/Hero-Background-2.jpg) no-repeat center center;
-    background-size: cover;
     height: 100vh;
   }
 
