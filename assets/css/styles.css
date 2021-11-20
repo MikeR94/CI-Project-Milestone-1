@@ -82,7 +82,6 @@ nav {
 }
 
 .navbar-links a:hover {
-  /* background-color: var(--clr-tertiary); */
   transition: ease-in 300ms;
   border-bottom: 1px solid white;
 }
@@ -96,6 +95,7 @@ nav {
   justify-content: space-between;
   width: 30px;
   height: 21px;
+  cursor: pointer;
 }
 
 .hamburger-line {
