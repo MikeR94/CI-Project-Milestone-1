@@ -21,3 +21,9 @@ navLinks[2].addEventListener("click", () => {
 navLinks[3].addEventListener("click", () => {
   navbarLinks.classList.toggle("active");
 });
+
+
+
+
+
+
