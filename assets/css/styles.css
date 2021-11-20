@@ -114,11 +114,10 @@ nav {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url(../images/pexels-koolshooters-7346691.jpg) no-repeat center center;
   background-size: cover;
-  height: 1000px;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 2em;
 }
 
 .hero h1 {
@@ -155,6 +154,7 @@ nav {
 
 .about-container {
   max-width: 1440px;
+  margin-top: 3em;
 }
 
 /* benefits section */
