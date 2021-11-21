@@ -476,6 +476,18 @@ footer h2 {
   }
 }
 
+@media screen and (max-width: 1028px) {
+  .benefits-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .benefits-container ul {
+    width: 350px;
+  }
+}
+
+
 @media screen and (max-width: 792px) {
   .hero {
     height: 100vh;
@@ -536,6 +548,10 @@ footer h2 {
 
   .benefits-container ul li {
     font-size: 0.97em;
+  }
+
+  .benefits-container ul {
+    width: auto;
   }
 
   .try-it-container {
