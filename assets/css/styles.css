@@ -559,6 +559,11 @@ footer h2 {
     text-align: center;
   }
 
+  .benefits-container {
+    align-items: unset;
+
+  }
+
   .benefits-container ul li {
     font-size: 0.97em;
   }
@@ -586,7 +591,7 @@ footer h2 {
   h2 {
     font-size: 1.125em;
   }
-  
+
   .footer-container h2 {
     font-size: 1em;
   }
