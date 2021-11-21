@@ -329,7 +329,9 @@ textarea {
 .contact-right img {
   position: absolute;
   bottom: 0;
-  right: 145px;
+  right: 160px;
+  width: 420px;
+  height: 420px;
 }
 
 .contact-right h2 {
@@ -561,7 +563,6 @@ footer h2 {
 
   .benefits-container {
     align-items: unset;
-
   }
 
   .benefits-container ul li {
