@@ -340,6 +340,48 @@ textarea {
   color: var(--clr-secondary);
 }
 
+/* quote */
+
+.quote {
+  width: 100%;
+  background-color: white;
+  padding: 75px;
+}
+
+.quote-container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.quote-container h3{
+  text-align: center;
+  color: var(--clr-primary);
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-weight: 300;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.profile-container p {
+  color: var(--clr-text-black);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-container img {
+  border-radius: 50%;
+  width: 35px;
+  height: 33px;
+  margin-right: 10px;
+}
+
 /* footer */
 
 footer {
@@ -525,29 +567,4 @@ footer h2 {
   }
 }
 
-/* test slogan, will implement properly shortly */
 
-.test {
-  width: 100%;
-  background-color: white;
-  padding: 150px;
-}
-
-.test-container {
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
-.test-container h3{
-  text-align: center;
-  color: var(--clr-primary);
-  font-size: 30px;
-  letter-spacing: 5px;
-  font-weight: 300;
-}
-
-.test-container h4 {
-  text-align: right;
-  color: var(--clr-text-black);
-  font-size: 10px;
-}
