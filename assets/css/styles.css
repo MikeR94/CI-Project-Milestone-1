@@ -485,6 +485,11 @@ footer h2 {
   .benefits-container ul {
     width: 350px;
   }
+
+  .profile-container{
+    justify-content: center;
+    padding-top: 20px;
+  }
 }
 
 
@@ -530,6 +535,14 @@ footer h2 {
 
   .navbar-links.active {
     display: flex;
+  }
+
+  .quote-container h3 {
+    font-size: 1.125em;
+  }
+
+  .quote {
+    padding: 25px;
   }
 }
 
