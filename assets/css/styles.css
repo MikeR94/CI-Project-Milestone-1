@@ -353,7 +353,7 @@ textarea {
   margin: 0 auto;
 }
 
-.quote-container h3{
+.quote-container h3 {
   text-align: center;
   color: var(--clr-primary);
   font-size: 30px;
@@ -566,5 +566,3 @@ footer h2 {
     font-size: 1em;
   }
 }
-
-
