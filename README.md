@@ -161,7 +161,8 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Provides the responsive navigation bar for the website.
 * [Figma](https://www.figma.com/) - Used to create the design prototype.
 * [Gitpod](https://www.gitpod.io/#get-started) - Used to create and deploy the website.
-* [Github](https://github.com/) - Used to host and edit the website.
+* [GitHub](https://github.com/) - Used to host and edit the website.
+* [GitBash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - Terminal used to push changes to the GitHub repository.
 
 [Back to top](<#contents>)
 
