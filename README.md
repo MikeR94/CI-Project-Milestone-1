@@ -168,7 +168,50 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 # Testing
 
-Please refer to [**_here_**]() for more information regarding the testing of this website.
+* ## Code Validation
+
+    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 2 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.
+
+* ### HTML Validation Image
+
+    ![HTML Validation](assets/readme-images/html-validation-image.png)
+
+* ### CSS Validation Image
+
+    ![CSS Validation](assets/readme-images/css-validation-image.png)
+
+* ### JS Validation Image
+
+    ![JS Validation](assets/readme-images/js-validation-image.png)
+
+* ## Lighthouse Testing 
+
+    * Futhermore the website has been through the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) Lighthouse Testing which tests the website for the following
+        * Performance - How the page performs whilst loading.
+        * Accessibility - Is the site acccessible for all users and how can it be improved.
+        * Best Practices - Site conforms to industry best practices.
+        * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
+
+* ### Desktop Lighthouse Result
+
+    ![Desktop Lighthouse](assets/readme-images/lighthouse-desktop-image.png)
+
+* ### Mobile Lighthouse Result
+
+    ![Mobile Lighthouse](assets/readme-images/lighthouse-mobile-image.png)
+
+* ## Responsiveness Testing
+    * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+
+    ![Responsive Test Sheet](assets/readme-images/responsive-test-image.png)
+
+
+* ## Browser Compatibility
+    * The website has been manually tested on the the following browsers and was presented with no issues.
+        * Google Chrome
+        * Microsoft Edge
+        * Safari
+* ## Known Bugs    
 
 [Back to top](<#contents>)
 
