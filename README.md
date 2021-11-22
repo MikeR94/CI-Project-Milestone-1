@@ -171,7 +171,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Code Validation
 
-    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 2 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.
+    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.
 
 * ### HTML Validation Image
 
@@ -221,6 +221,15 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     *  After implementing the favourite icon, the console error had disappeared
 
     ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
+
+    * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors
+
+    ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
+
+    * It said that the frameborder attribute on the iframe element id obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors
+
+    ![Frameborder Solved](assets/readme-images/html-validation-image.png)
+
 
 * ## Bugs Unresolved  
     * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 seperate issues.
