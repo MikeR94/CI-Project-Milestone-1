@@ -187,19 +187,29 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Lighthouse Testing 
 
-    * Futhermore the website has been through the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) Lighthouse Testing which tests the website for the following
+    * Futhermore the website has been through the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and [Microsoft Edge Dev Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) Lighthouse Testing which tests the website for the following
         * Performance - How the page performs whilst loading.
         * Accessibility - Is the site acccessible for all users and how can it be improved.
         * Best Practices - Site conforms to industry best practices.
         * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
 
-* ### Desktop Lighthouse Result
+* ### Edge Desktop Lighthouse Result
 
-    ![Desktop Lighthouse](assets/readme-images/lighthouse-desktop-image.png)
+    ![Edge Desktop Lighthouse](assets/readme-images/desktop-edge-lighthouse-image.png)
 
-* ### Mobile Lighthouse Result
+* ### Edge Mobile Lighthouse Result
 
-    ![Mobile Lighthouse](assets/readme-images/lighthouse-mobile-image.png)
+    ![Edge Mobile Lighthouse](assets/readme-images/mobile-edge-lighthouse-image.png)
+
+* ### Chrome Desktop Lighthouse Result
+
+    ![Chrome Desktop Lighthouse](assets/readme-images/lighthouse-desktop-image.png)
+
+* ### Chrome Mobile Lighthouse Result
+
+    ![Chrome Mobile Lighthouse](assets/readme-images/lighthouse-mobile-image.png)
+
+    * I noticed the best practices was down by 7 points when run under the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and it seems to be to do with Content Security Policy. If this website was to go live for users then I would address this issue immediately however since this website was built for educational purposes and I've not yet been informed about CSP, I will look into it at a later date.
 
 * ## Responsiveness Testing
     * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
