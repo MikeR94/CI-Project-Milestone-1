@@ -48,7 +48,7 @@ The design prototype for Reflection was produced in [Figma](https://www.figma.co
 
 ## Site Structure
 
-The website Reflection is a one page website that has 4 navigation links for the user to use. The [Home Page](index.html) is the default loading page and the subsequent sections of the home page are [About]('index.html'), [Try Now](index.html) and [Contact](index.html). The pages are all accessible primarily from the navigation menu however the user simply has to scroll down the website and they will visit these sections in the order above.
+The website Reflection is a one page website that has 4 navigation links for the user to use. The [Home Page](index.html) is the default loading page and the subsequent sections of the home page are **About**, **Try Now** and **Contact**. The pages are all accessible primarily from the navigation menu however the user simply has to scroll down the website and they will visit these sections in the order above.
 
 [Back to top](<#contents>)
 ## Design Choices
