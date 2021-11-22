@@ -79,6 +79,8 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 ![Navigation Bar Responsive Image](assets/readme-images/nav-bar-responsive-image.png)
 
+![Navigation Bar Responsive Image](assets/readme-images/nav-bar-responsive-open-image.png)
+
 [Back to top](<#contents>)
 
   * ### Home
