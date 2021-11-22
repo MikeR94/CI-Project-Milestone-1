@@ -1,108 +1,222 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **_Reflection_**
 
-Welcome Mike,
+Reflection is a small independant company that advertises and encourages new users to step into the wonderful world of Yoga. This site is target at individuals who have not yet tried Yoga and are looking for some help, guidance and inspiration to give it a go. Reflection is a brilliant source for people around the world to find out information about Yoga with the ability to get in touch and seek for further guidance on how to get started
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+You can view the live site here <a href="https://miker94.github.io/CI-Project-Milestone-1/index.html" target="_blank" rel="noopener">Reflection</a>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Reflection responsive design](assets/readme-images/responsive-preview.png)
 
-## Gitpod Reminders
+# Contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* [**User Experience UX**](<#user-experience-ux>)
+    * [Design Protoype](<#design-prototype>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    *  [Typography](<#typography>)
+    *  [Colour Scheme](<#colour-scheme>)
+* [**Features**](<#features>)
+    * [**Home**](<#navigation-menu>)
+         * [Navigation Menu](<#navigation-menu>)
+         * [Home](<#home>)
+         * [About](<#about>)
+         * [Try It](<#try-it>)
+         * [Contact](<#contact>)
+         * [Footer](<#footer>)
+    * [**Future Features**](<#future-features>)
+         * [Testimonials](<#testimonials>)
+         * [Log In](<#log-in>)
+         * [Latest News](<#latest-news>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [**Content**](<#content>)
+    * [**Media**](<#media>)
+*  [**Acknowledgements**](<#acknowledgements>)
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+# User Experience (UX)
 
-Another blue button should appear to click: _Open Browser_.
+## Design Prototype
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The design prototype for Reflection was produced in [Figma](https://www.figma.com/). There are design prototypes for Desktop, Mobile and Laptop. The final site varies slightly from the design prototype due to developments that occured during the creation process and also from gaining valuable feedback from others.
 
-A blue button should appear to click: _Make Public_,
+![Design Prototype Preview](assets/readme-images/design-prototype.png)
 
-Another blue button should appear to click: _Open Browser_.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+[Back to top](<#contents>)
 
-To log into the Heroku toolbelt CLI:
+## Site Structure
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The website Reflection is a one page website that has 4 navigation links for the user to use. The [Home Page](index.html) is the default loading page and the subsequent sections of the home page are [About]('index.html'), [Try Now](index.html) and [Contact](index.html). The pages are all accessible primarily from the navigation menu however the user simply has to scroll down the website and they will visit these sections in the order above.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+[Back to top](<#contents>)
+## Design Choices
 
-------
+ * ### Typography
+      The fonts chosen were 'Poppins' for the headings and for the body text however different font-weights and font-sizes were used to give further clarity. They fall back to sans-serif respectively if the Poppins font can't be loaded. 
+     *  'Poppins' was chosen for the primarily to give the user an inital welcoming feel. The font-style is very modern and clean and gives a professional and inviting feeling to the website.
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+ * ### Colour Scheme
+      The colour scheme eventually chosen is one based on a darker pink, lighter-black and off-white. This colour scheme gives off a warm, positive and clean feeling to the website and this is something that Reflection can hopefully pass onto the user.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+![Colour Palate image](assets/readme-images/reflection-colour-palette.png)
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+[Back to top](<#contents>)
+# Features
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+The Reflection website is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and contact form. The overall feel of the website is intended to be inviting and not intimidating to encourage the user to explore further. 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+## Existing Features  
+  * ### Navigation Menu
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+    * Located at the top of the website and stays on the screen at all times, it is fully responsive and contains links to all the sections of the site to enable ease of navigation in one convenient location.
+    * The logo is clickable with a link back to the home page for enhanced UX.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+![Navigation Bar Desktop Image](assets/readme-images/nav-bar-desktop-image.png)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+![Navigation Bar Responsive Image](assets/readme-images/nav-bar-responsive-image.png)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+[Back to top](<#contents>)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+  * ### Home
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+      * This is the first part of the website the user will see when visiting. Designed to be a warm and welcoming full page image to welcome the user and to give a clean and clear direction of what the website is about.
+      * In the middle of the image is a catchy and appealing slogan to further clarify to the user that this website is about Yoga.
+      * Beneath the slogan is a simple yet effective button that encourages the user to "Learn More". Clicking this button will scroll the user down to the About section where the user will gain further information regarding Yoga and it's benefits.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+![Hero Image](assets/readme-images/hero-image.jpg)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+[Back to top](<#contents>)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+  * ### About
+    * The About section lets the user know immediately what Yoga is, are they able partake and also provides a list of benefits from doing Yoga.
+    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga.
 
-------
+![About-Us image](assets/readme-images/about-image.png)
 
-## FAQ about the uptime script
+[Back to top](<#contents>)
 
-**Why have you added this script?**
+  * ### Try It
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+    * The Try It section provides the user with some basic beginner Yoga poses to attempt.
+    * It is styled so that the user is presented with both a steps and a video tutorial which are side-by-side so the user can clearly identify which Yoga pose they are doing.
+    * The Try-It section has 3 different Yoga poses for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.
 
-**How will this affect me?**
+![Try It Desktop](assets/readme-images/try-it-image.png)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+![Try It Responsive](assets/readme-images/try-it-responsive-image.png)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+![Try It Mobile](assets/readme-images/try-it-mobile-image.png)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+[Back to top](<#contents>)
 
-**So….?**
+* ### Contact
+    
+    * The contact form was designed with simplicity in mind. It has 4 input fields, these being Name, Email Address, How Can We Help and Message. 
+    * The contact section is fully responsive and removes the the image and the text on the right hand side when the device width can no longer accomodate them. At this point, the form will be centralised.
+    * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.
+    
+![Footer image](assets/readme-images/contact-image.png)
+![Footer image](assets/readme-images/contact-responsive-image.png)
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+[Back to top](<#contents>)
+* ### Footer
+    
+    * Contains social media links. To enhance the UX, the links open in seperate tabs.
+    * The Facebook, Twitter, Youtube and Instagram social links are there for the educational side of this project and navigate the user to the home page of each respected site. They would be changed to re-direct the user to the respective Reflection social media if this site was deployed outside of this project.
+    
+![Footer image](assets/readme-images/footer-desktop-image.png)
 
-**Can I opt out?**
+![Footer image](assets/readme-images/footer-responsive-image.png)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+[Back to top](<#contents>)
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+* ## Future Features 
 
-**Anything more?**
+* ### Testimonials
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+    * A Testimonial section to showcase positive comments about our service.
+    * This would be displayed in the form of multiple 'cards' and have a quote from the user, the users name and an image of the user if they wish to provide one.
 
----
+* ### Log-In
 
-Happy coding!
+    * Allow the user to log into the website and have a profile
+    * The log-in option would be located within the navigation bar and re-direct the user to a new page where they can enter details and register an account.
+
+* ### Latest News
+
+    * The latest news section would be displayed on the main page but only show the most recent and appropiate headlines.
+    A small link with the text "read more" will then re-direct the user to the full news article.    
+
+[Back to top](<#contents>)
+
+# Technologies Used
+* [HTML5](https://en.wikipedia.org/wiki/HTML) - Provides the content and structure for the website.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - Provides the styling for the website.
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Provides the responsive navigation bar for the website.
+* [Figma](https://www.figma.com/) - Used to create the design prototype.
+* [Gitpod](https://www.gitpod.io/#get-started) - Used to create and deploy the website.
+* [Github](https://github.com/) - Used to host and edit the website.
+
+[Back to top](<#contents>)
+
+# Testing
+
+Please refer to [**_here_**]() for more information regarding the testing of this website.
+
+[Back to top](<#contents>)
+
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+  The live link to the Github repository can be found here - https://github.com/MikeR94/CI-Project-Milestone-1
+
+### **To fork the repository on GitHub**
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+1. Log in to **GitHub** and locate the [repository](https://github.com/MikeR94/CI-Project-Milestone-1).
+2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+
+### **To create a local clone of this project**
+The method from cloning a project from GitHub is below:
+
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+[Back to top](<#contents>)
+
+# Credits
+### Content
+
+* The font came from [Google Fonts](https://fonts.google.com/)
+* The colour palette was displayed by [Coolors](https://coolors.co/)
+* The icons came from [Font Awesome](https://fontawesome.com/)
+* The responsive Youtube video came from a [YouTube Tutorial](https://www.youtube.com/watch?v=0L8cQ9nRtuE&t=671s)
+* The JavaScript code for the responsive navigation bar was provided and taught to me by brother [Jack Ralph](https://github.com/jackralph)
+* The text content came from [NHS](https://www.nhs.uk/live-well/exercise/guide-to-yoga/) and [HealthLine](https://www.healthline.com/health/fitness-exercise/beginner-yoga-poses)
+
+
+### Media
+* The images came from [Pexels](https://www.pexels.com/), [HiClipArt](https://www.hiclipart.com/) and [YogaJournal](https://www.yogajournal.com/)
+* The photos were compressed using [Compressor](https://compressor.io/)
+
+[Back to top](<#contents>)
+
+# Acknowledgements
+The site was completed as a part of a Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/) and is my Portfolio Project Milestone 1. I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), [Luke Walters](https://www.linkedin.com/in/luke-walters-leatherbarrow-531107101/), [Jack Ralph](https://www.linkedin.com/in/jackthomasralph/), the Slack community, and all at the Code Institute for their help and support. Building Reflection taught me so much and now I feel so much confident when it comes to designing, building, testing and deploying a fully functioning website.
+
+Mike Ralph 2021.
+
+[Back to top](<#contents>)
