@@ -237,7 +237,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
 
-    * It said that the frameborder attribute on the iframe element id obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
+    * It said that the frameborder attribute on the iframe element id is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
 
     ![Frameborder Solved](assets/readme-images/html-validation-image.png)
 
