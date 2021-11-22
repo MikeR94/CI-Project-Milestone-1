@@ -160,6 +160,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * [CSS3](https://en.wikipedia.org/wiki/CSS) - Provides the styling for the website.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Provides the responsive navigation bar for the website.
 * [Figma](https://www.figma.com/) - Used to create the design prototype.
+* [Compressor](https://compressor.io/) - Used to compress the images
 * [Gitpod](https://www.gitpod.io/#get-started) - Used to create and edit the website.
 * [GitHub](https://github.com/) - Used to host and deploy the website.
 * [GitBash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - Terminal used to push changes to the GitHub repository.
@@ -249,6 +250,7 @@ The method from cloning a project from GitHub is below:
 * The font came from [Google Fonts](https://fonts.google.com/)
 * The colour palette was displayed by [Coolors](https://coolors.co/)
 * The icons came from [Font Awesome](https://fontawesome.com/)
+* The responsive preview image at the top of the page came from  [Techsini](https://techsini.com/multi-mockup/index.php)
 * The responsive Youtube video came from a [YouTube Tutorial](https://www.youtube.com/watch?v=0L8cQ9nRtuE&t=671s)
 * The JavaScript code for the responsive navigation bar was provided and taught to me by brother [Jack Ralph](https://github.com/jackralph)
 * The text content came from [NHS](https://www.nhs.uk/live-well/exercise/guide-to-yoga/) and [HealthLine](https://www.healthline.com/health/fitness-exercise/beginner-yoga-poses)
