@@ -39,7 +39,7 @@ You can view the live site here <a href="https://miker94.github.io/CI-Project-Mi
 
 ## Design Prototype
 
-The design prototype for Reflection was produced in [Figma](https://www.figma.com/). There are design prototypes for Desktop, Mobile and Laptop. The final site varies slightly from the design prototype due to developments that occured during the creation process and also from gaining valuable feedback from others.
+The design prototype for Reflection was produced in [Figma](https://www.figma.com/). There are design prototypes for Desktop, Mobile and Laptop. The final site varies slightly from the design prototype due to developments that occured during the creation process and also from gaining valuable feedback from others.<br /><br />
 
 ![Design Prototype Preview](assets/readme-images/design-prototype.png)
 
@@ -59,7 +59,7 @@ The website Reflection is a one page website that has 4 navigation links for the
 
 
  * ### Colour Scheme
-      The colour scheme eventually chosen is one based on a darker pink, lighter-black and off-white. This colour scheme gives off a warm, positive and clean feeling to the website and this is something that Reflection can hopefully pass onto the user.
+      The colour scheme eventually chosen is one based on a darker pink, lighter-black and off-white. This colour scheme gives off a warm, positive and clean feeling to the website and this is something that Reflection can hopefully pass onto the user.<br /><br />
 
 ![Colour Palate image](assets/readme-images/reflection-colour-palette.png)
 
@@ -73,7 +73,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
   * ### Navigation Menu
 
     * Located at the top of the website and stays on the screen at all times, it is fully responsive and contains links to all the sections of the site to enable ease of navigation in one convenient location.
-    * The logo is clickable with a link back to the home page for enhanced UX.
+    * The logo is clickable with a link back to the home page for enhanced UX.<br /><br />
 
 ![Navigation Bar Desktop Image](assets/readme-images/nav-bar-desktop-image.png)
 
@@ -87,7 +87,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
       * This is the first part of the website the user will see when visiting. Designed to be a warm and welcoming full page image to welcome the user and to give a clean and clear direction of what the website is about.
       * In the middle of the image is a catchy and appealing slogan to further clarify to the user that this website is about Yoga.
-      * Beneath the slogan is a simple yet effective button that encourages the user to "Learn More". Clicking this button will scroll the user down to the About section where the user will gain further information regarding Yoga and it's benefits.
+      * Beneath the slogan is a simple yet effective button that encourages the user to "Learn More". Clicking this button will scroll the user down to the About section where the user will gain further information regarding Yoga and it's benefits.<br /><br />
 
 ![Hero Image](assets/readme-images/hero-image.jpg)
 
@@ -95,7 +95,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
   * ### About
     * The About section lets the user know immediately what Yoga is, are they able partake and also provides a list of benefits from doing Yoga.
-    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga.
+    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga.<br /><br /> 
 
 ![About-Us image](assets/readme-images/about-image.png)
 
@@ -105,7 +105,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     * The Try It section provides the user with some basic beginner Yoga poses to attempt.
     * It is styled so that the user is presented with both a steps and a video tutorial which are side-by-side so the user can clearly identify which Yoga pose they are doing.
-    * The Try-It section has 3 different Yoga poses for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.
+    * The Try-It section has 3 different Yoga poses for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.<br /><br />
 
 ![Try It Desktop](assets/readme-images/try-it-image.png)
 
@@ -119,7 +119,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     
     * The contact form was designed with simplicity in mind. It has 4 input fields, these being Name, Email Address, How Can We Help and Message. 
     * The contact section is fully responsive and removes the the image and the text on the right hand side when the device width can no longer accomodate them. At this point, the form will be centralised.
-    * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.
+    * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.<br /><br />
     
 ![Footer image](assets/readme-images/contact-image.png)
 ![Footer image](assets/readme-images/contact-responsive-image.png)
@@ -128,7 +128,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * ### Footer
     
     * Contains social media links. To enhance the UX, the links open in seperate tabs.
-    * The Facebook, Twitter, Youtube and Instagram social links are there for the educational side of this project and navigate the user to the home page of each respected site. They would be changed to re-direct the user to the respective Reflection social media if this site was deployed outside of this project.
+    * The Facebook, Twitter, Youtube and Instagram social links are there for the educational side of this project and navigate the user to the home page of each respected site. They would be changed to re-direct the user to the respective Reflection social media if this site was deployed outside of this project.<br /><br />
     
 ![Footer image](assets/readme-images/footer-desktop-image.png)
 
@@ -171,7 +171,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Code Validation
 
-    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.
+    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.<br /><br />
 
 * ### HTML Validation Image
 
@@ -191,7 +191,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         * Performance - How the page performs whilst loading.
         * Accessibility - Is the site acccessible for all users and how can it be improved.
         * Best Practices - Site conforms to industry best practices.
-        * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
+        * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.<br /><br />
 
 * ### Edge Desktop Lighthouse Result
 
@@ -209,10 +209,10 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![Chrome Mobile Lighthouse](assets/readme-images/lighthouse-mobile-image.png)
 
-    * I noticed the best practices was down by 7 points when run under the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and it seems to be to do with Content Security Policy. If this website was to go live for users then I would address this issue immediately however since this website was built for educational purposes and I've not yet been informed about CSP, I will look into it at a later date.
+    * I noticed the best practices was down by 7 points when run under the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and it seems to be to do with Content Security Policy. If this website was to go live for users then I would address this issue immediately however since this website was built for educational purposes and I've not yet been informed about CSP, I will look into it at a later date.<br /><br />
 
 * ## Responsiveness Testing
-    * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+    * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).<br /><br />
 
     ![Responsive Test Sheet](assets/readme-images/responsive-test-image.png)
 
@@ -222,27 +222,28 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         * Google Chrome
         * Microsoft Edge
         * Safari
+        <br /><br />
 
 * ## Bugs Fixed  
-    * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a "favourite icon".
+    * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a "favourite icon".<br /><br />
 
     ![FavIcon Issue](assets/readme-images/favicon-issue-image.png)
 
-    *  After implementing the favourite icon, the console error had disappeared
+    *  After implementing the favourite icon, the console error had disappeared<br /><br />
 
     ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
 
-    * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors
+    * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors<br /><br />
 
     ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
 
-    * It said that the frameborder attribute on the iframe element id obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors
+    * It said that the frameborder attribute on the iframe element id obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
 
     ![Frameborder Solved](assets/readme-images/html-validation-image.png)
 
 
 * ## Bugs Unresolved  
-    * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 seperate issues.
+    * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 seperate issues.<br /><br />
 
     ![Site Issue](assets/readme-images/site-issues-image.png)
     
