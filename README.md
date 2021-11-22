@@ -212,7 +212,24 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         * Google Chrome
         * Microsoft Edge
         * Safari
-* ## Known Bugs    
+
+* ## Bugs Fixed  
+    * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a "favourite icon".
+
+    ![FavIcon Issue](assets/readme-images/favicon-issue-image.png)
+
+    *  After implementing the favourite icon, the console error had disappeared
+
+    ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
+
+* ## Bugs Unresolved  
+    * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 seperate issues.
+
+    ![Site Issue](assets/readme-images/site-issues-image.png)
+    
+    * As for the cookie issue and what is causing this, I found some very good information on [StackOverflow](https://stackoverflow.com/questions/60822936/where-to-add-samesite-none). It seems to be a server side issue and there is nothing that I can do from the client side to properly recitify the issue. There is one way to to mitigate this issue but it is not a proper solution and that is to disable Cookie Deprecation through chrome://flags.
+
+    * As for the navigator issue, I have narrowed this down to the Youtube videos that I have embedded on the site. I've done some research and apparently this is a Google Chrome issue as per this [source](https://forum.codewithmosh.com/t/the-ultimate-javascript-console-issue-at-beginning-of-course/6535) and has been reported [here](https://githubmemory.com/repo/zalmoxisus/redux-devtools-extension/issues/808). Additionally I have tested this website with Microsoft Edge and the issue doesn't show.
 
 [Back to top](<#contents>)
 
