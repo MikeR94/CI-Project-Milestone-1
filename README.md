@@ -96,9 +96,14 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
   * ### About
     * The About section lets the user know immediately what Yoga is, are they able partake and also provides a list of benefits from doing Yoga.
-    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga.<br /><br /> 
+    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga. It is fully responsive and splits into 2 columns at 1028px wide and then into 1 single column at 792px wide<br /><br /> 
 
 ![About-Us image](assets/readme-images/about-image.png)
+
+![Benefits 2 Col Image](assets/readme-images/benefits-2-col-image.png)
+
+![Benefits 1 Col Image](assets/readme-images/benefits-1-col-image.png)
+
 
 [Back to top](<#contents>)
 
