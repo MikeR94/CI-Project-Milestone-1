@@ -224,15 +224,20 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         * Safari
         <br /><br />
 
-* ## Bugs Fixed  
+* ## Bugs Fixed 
+
+    ### Console Error
+        
     * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a favicon.<br /><br />
 
     ![FavIcon Issue](assets/readme-images/favicon-issue-image.png)
 
-    *  After implementing the favicon, the console error had disappeared<br /><br />
+     * After implementing the favicon, the console error had disappeared<br /><br />
 
     ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
 
+    ### HTML Validation
+    
     * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors<br /><br />
 
     ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
@@ -240,6 +245,16 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * It said that the frameborder attribute on the iframe element id is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
 
     ![Frameborder Solved](assets/readme-images/html-validation-image.png)
+    
+    ### Form 404
+    
+    * When testing the form, I noticed that when the users click the submit button it will re-direct them to another page and display the below error <br /><br />
+
+    ![Form 404 Error](assets/readme-images/form-404-error-image.png)
+
+    * This was caused by the form action not being set up correctly. To fix this, I changed the form action to re-direct the user to the home page and then display a browser alert to let the user know that the form submission was successful. I included some additional text to let the user know that the information they submitted was not being used and that this was for educational purposes only.<br /><br />
+
+    ![Form 404 Solved](assets/readme-images/form-alert-image.png)
 
 
 * ## Bugs Unresolved  
