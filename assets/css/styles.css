@@ -480,8 +480,7 @@ footer h2 {
 
 @media screen and (max-width: 1028px) {
   .benefits-container {
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
   }
 
   .benefits-container ul {
@@ -505,7 +504,9 @@ footer h2 {
   }
 
   .benefits-container {
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
 
   nav {
