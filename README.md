@@ -2,7 +2,7 @@
 
 Reflection is a small independant company that advertises and encourages new users to step into the wonderful world of Yoga. This site is target at individuals who have not yet tried Yoga and are looking for some help, guidance and inspiration to give it a go. Reflection is a brilliant source for people around the world to find out information about Yoga with the ability to get in touch and seek for further guidance on how to get started.
 
-You can view the live site here <a href="https://miker94.github.io/CI-Project-Milestone-1/index.html" target="_blank" rel="noopener">Reflection</a>
+You can view the live site here - <a href="https://miker94.github.io/CI-Project-Milestone-1/index.html" target="_blank" rel="noopener">Reflection</a>
 
 ![Reflection responsive design](assets/readme-images/responsive-preview.png)
 
@@ -181,7 +181,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Code Validation
 
-    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately.<br /><br />
+    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately and documented below.<br /><br />
 
 * ### HTML Validation Image
 
