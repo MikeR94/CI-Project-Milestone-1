@@ -1,3 +1,5 @@
+/* Import Fonts */
+
 @import url("https://fonts.googleapis.com/css2?family=Peddana&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
@@ -7,6 +9,8 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
 }
+
+/* Global Styles */
 
 :root {
   --clr-primary: #a05a6a;
@@ -37,7 +41,7 @@ p {
   margin-bottom: 1.125em;
 }
 
-/* navigation bar */
+/* Navigation Bar */
 
 .logo {
   font-size: 1.5em;
@@ -111,7 +115,7 @@ nav {
   border-radius: 10px;
 }
 
-/* hero section */
+/* Hero Section */
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
@@ -150,7 +154,7 @@ nav {
   transition: ease-in 300ms;
 }
 
-/* about section */
+/* About Section */
 
 .about {
   display: flex;
@@ -162,7 +166,7 @@ nav {
   margin-top: 80px;
 }
 
-/* benefits section */
+/* Benefits Section */
 
 .benefits {
   background-color: var(--clr-primary);
@@ -192,7 +196,7 @@ nav {
   font-size: 1.25em;
 }
 
-/* try it section */
+/* Try It Section */
 
 .try-it {
   display: flex;
@@ -265,7 +269,7 @@ hr {
   margin-bottom: 2.5em;
 }
 
-/* contact section */
+/* Contact Section */
 
 .contact {
   background-color: var(--clr-primary);
@@ -342,9 +346,9 @@ textarea {
   color: var(--clr-secondary);
 }
 
-/* quote */
+/* Quote Section */
 
-.quote {
+.quote-section {
   width: 100%;
   background-color: white;
   padding: 75px;
@@ -384,7 +388,7 @@ textarea {
   margin-right: 10px;
 }
 
-/* footer */
+/* Footer Section */
 
 footer {
   width: 100%;
@@ -432,7 +436,7 @@ footer h2 {
   transition: ease-in 150ms;
 }
 
-/* media queries */
+/* Media Queries */
 
 @media screen and (max-width: 1345px) {
   .tutorial-container {
@@ -497,7 +501,6 @@ footer h2 {
   }
 }
 
-
 @media screen and (max-width: 792px) {
   .hero {
     height: 100vh;
@@ -548,7 +551,7 @@ footer h2 {
     font-size: 1.125em;
   }
 
-  .quote {
+  .quote-section {
     padding: 25px;
   }
 }
@@ -596,7 +599,7 @@ footer h2 {
     text-align: center;
   }
 
-  .quote-container h3{
+  .quote-container h3 {
     font-size: 1em;
   }
 
