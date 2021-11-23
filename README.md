@@ -26,6 +26,7 @@ You can view the live site here <a href="https://miker94.github.io/CI-Project-Mi
          * [Testimonials](<#testimonials>)
          * [Log In](<#log-in>)
          * [Latest News](<#latest-news>)
+         * [Newsletter](<#latest-news>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
@@ -151,7 +152,11 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * ### Latest News
 
     * The latest news section would be displayed on the main page but only show the most recent and appropiate headlines.
-    A small link with the text "read more" will then re-direct the user to the full news article.    
+    A small link with the text "read more" will then re-direct the user to the full news article. 
+
+* ### Newsletter
+
+    * A simple newsletter section that would allow the user to opt-in to monthly emails sent out by Reflection on the latest and best things about Yoga and the business
 
 [Back to top](<#contents>)
 
@@ -307,7 +312,6 @@ The method from cloning a project from GitHub is below:
 * The JavaScript code for the responsive navigation bar was provided and taught to me by brother [Jack Ralph](https://github.com/jackralph)
 * The text content came from [NHS](https://www.nhs.uk/live-well/exercise/guide-to-yoga/) and [HealthLine](https://www.healthline.com/health/fitness-exercise/beginner-yoga-poses)
 * The favicon came from [Favicon](https://favicon.io/) 
-
 
 ### Media
 * The images came from [Pexels](https://www.pexels.com/), [HiClipArt](https://www.hiclipart.com/) and [YogaJournal](https://www.yogajournal.com/)
