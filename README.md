@@ -225,11 +225,11 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         <br /><br />
 
 * ## Bugs Fixed  
-    * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a "favourite icon".<br /><br />
+    * A console error appeared when inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and stated "Failed to load resource: the server responded with a status of 404 () /favicon.ico:1. After doing some research into this error, I found that this was simply due to the website not having a favicon.<br /><br />
 
     ![FavIcon Issue](assets/readme-images/favicon-issue-image.png)
 
-    *  After implementing the favourite icon, the console error had disappeared<br /><br />
+    *  After implementing the favicon, the console error had disappeared<br /><br />
 
     ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
 
