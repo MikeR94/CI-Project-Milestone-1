@@ -126,9 +126,9 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
   * ### Try It
 
-    * The Try It section provides the user with some basic beginner Yoga poses to attempt.
-    * It is styled so that the user is presented with both a steps and a video tutorial which are side-by-side so the user can clearly identify which Yoga pose they are doing.
-    * The Try-It section has 3 different Yoga poses for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.<br /><br />
+    * The Try It section provides the user with some basic beginner Yoga positions to attempt.
+    * It is styled so that the user is presented with both a steps and a video tutorial which are side-by-side so the user can clearly identify which Yoga position they are doing.
+    * The Try-It section has 3 different Yoga positions for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.<br /><br />
 
 ![Try It Desktop](assets/readme-images/try-it-image.png)
 
@@ -221,7 +221,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         * Performance - How the page performs whilst loading.
         * Accessibility - Is the site acccessible for all users and how can it be improved.
         * Best Practices - Site conforms to industry best practices.
-        * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.<br /><br />
+        * SEO - Search Engine Optimisation. Is the site optimised for search engine result rankings.<br /><br />
 
 * ### Edge Desktop Lighthouse Result
 
@@ -344,7 +344,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
 
-    * It said that the frameborder attribute on the iframe element id is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
+    * It said that the frameborder attribute on the iframe element ID is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
 
     ![Frameborder Solved](assets/readme-images/html-validation-image.png)
     
