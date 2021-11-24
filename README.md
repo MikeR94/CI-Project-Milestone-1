@@ -226,6 +226,61 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![Responsive Test Sheet](assets/readme-images/responsive-test-image.png)
 
+* ## Manual Testing
+    * In addition to the other tests, I have conducted a manual check list for myself to carry out to make sure that everything is working as intended.
+
+
+   * ### Manual Tests Conducted
+      * Navigation Menu
+        * Verify that clicking on logo navigates to the top of the page.
+        * Verify that when clicked, all navigation links scroll smoothly to the correct section of the page.
+        * Verify that all navigation links have the :hover psuedo selector and the correct colour.
+        * Verify that the navigation menu transitions into the hamburger icon at 729px wide.
+        * Verify that when the hamburger is clicked, the navigation menu drops down.
+        * Verify that the navigation bar stays at the top of the page at all times whilst the user scrolls.
+        * Verify that the navigation bar is fully responsive.
+      * Home/Landing Section
+        * Verify that the hero image fits and does not pixelate.
+        * Verify that the main text and Learn More button is central to the page.
+        * Verify that when clicked, the Learn More button takes the user to the About section.
+        * Verify that the Learn More button has the :hover psuedo selector and the correct colour.
+        * Verify that the Home/Landing section is fully responsive.
+      * About Section
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes.
+        * Verify that the text centralises at 500px wide.
+        * Verify that the About section is fully responsive.
+      * Benefits Section
+        * Verify that the section has the correct colour background applied.
+        * Verify that the list does not have any spelling mistakes.
+        * Verify that the list is clearly presented with the correct font-style and font-size.
+        * Verify that the list has green tick icons and are positioned correctly.
+        * Verify that the list splits into 2 columns at 1028px wide and then 1 column at 792px wide.
+        * Verify that Benefits section is fully responsive.
+      * Try It Section
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes.
+        * Verify that the steps arrow icons and are coloured correctly.
+        * Verify that all the videos do not automatically play.
+        * Verify that all the videos play when the user clicks on the video.
+        * Verify that the Try It section is fully responsive.
+      * Contact Section
+        * Verify that all elements that are set to required are working.
+        * Verify that valid email address is needed with relevant '@' included.
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes.
+        * Verify that 'Submit' button informs the user that the submission was successful.
+        * Verify that the Contact section is fully responsive.
+      * Quote Section
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes. 
+        * Verify that the profile image is aligned correctly.
+        * Verify that the profile image is not pixelated.
+        * Verify that the Quote Section is fully responsive.
+      * Footer Section
+        * Verify that the social media links open in a new tab.
+        * Verify that the Footer section is fully responsive
+        <br /><br />
 
 * ## Browser Compatibility
     * The website has been manually tested on the the following browsers and was presented with no issues.
