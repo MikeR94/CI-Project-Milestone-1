@@ -188,7 +188,9 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * [CSS3](https://en.wikipedia.org/wiki/CSS) - Provides the styling for the website.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Provides the responsive navigation bar for the website.
 * [Figma](https://www.figma.com/) - Used to create the design prototype.
-* [Compressor](https://compressor.io/) - Used to compress the images
+* [a11y](https://color.a11y.com/Contrast/) - Used to test the contrast and accessibility.
+* [Favicon](https://favicon.io/) - Used to create the favicon.
+* [Compressor](https://compressor.io/) - Used to compress the images.
 * [Gitpod](https://www.gitpod.io/#get-started) - Used to create and edit the website.
 * [GitHub](https://github.com/) - Used to host and deploy the website.
 * [GitBash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - Terminal used to push changes to the GitHub repository.
@@ -238,6 +240,11 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     ![Chrome Mobile Lighthouse](assets/readme-images/lighthouse-mobile-image.png)
 
     * I noticed the best practices was down by 7 points when run under the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and it seems to be to do with Content Security Policy. If this website was to go live for users then I would address this issue immediately however since this website was built for educational purposes and I've not yet been informed about CSP, I will look into it at a later date.<br /><br />
+
+* ## Accessibility Testing
+    * I also put the website through [a11y](https://color.a11y.com/Contrast/) to further test the contrast and found no issues.  <br /><br />
+
+    ![a11y Test](assets/readme-images/a11y-contrast-test-image.png)
 
 * ## Responsiveness Testing
     * The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).<br /><br />
@@ -336,7 +343,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     ![Form 404 Error](assets/readme-images/form-404-error-image.png)
 
     * This was caused by the form action not being set up correctly. To fix this, I changed the form action to re-direct the user to the home page and then display a browser alert to let the user know that the form submission was successful. I included some additional text to let the user know that the information they submitted was not being used and that this was for educational purposes only.<br /><br />
-
+    
     ![Form 404 Solved](assets/readme-images/form-alert-image.png)
 
 
