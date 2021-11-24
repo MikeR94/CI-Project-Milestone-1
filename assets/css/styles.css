@@ -375,16 +375,16 @@ textarea {
 
 .profile-container p {
   color: var(--clr-text-black);
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
   padding: 0;
-  margin: 0;
+  margin: 10px 0px 0px 0px;
 }
 
 .profile-container img {
   border-radius: 50%;
-  width: 35px;
-  height: 35px;
+  width: 70px;
+  height: 70px;
   margin-right: 10px;
 }
 
@@ -554,6 +554,15 @@ footer h2 {
   .quote-section {
     padding: 25px;
   }
+
+  .profile-container p {
+    font-size: 1em;
+  }
+
+  .profile-container img {
+    width: 45px;
+    height: 45px;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -605,6 +614,11 @@ footer h2 {
 
   .profile-container p {
     font-size: 0.8em;
+  }
+
+  .profile-container img {
+    width: 35px;
+    height: 35px;
   }
 
   form label {
