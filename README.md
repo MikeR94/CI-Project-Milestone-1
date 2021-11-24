@@ -251,6 +251,18 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![Responsive Test Sheet](assets/readme-images/responsive-test-image.png)
 
+* ## Compressing Images
+    * All images have been compressed with [Compressor](https://compressor.io/) and I managed to save a total of 1568 KB.<br /><br />
+
+    ![Compressed Image 1](assets/readme-images/compressed-1.png)
+
+    ![Compressed Image 2](assets/readme-images/compressed-2.png)
+
+    ![Compressed Image 3](assets/readme-images/compressed-3.png)
+
+    ![Compressed Image 4](assets/readme-images/compressed-4.png)
+
+
 * ## Manual Testing
     * In addition to the other tests, I have conducted a manual check list for myself to carry out to make sure that everything is working as intended.
 
@@ -343,7 +355,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     ![Form 404 Error](assets/readme-images/form-404-error-image.png)
 
     * This was caused by the form action not being set up correctly. To fix this, I changed the form action to re-direct the user to the home page and then display a browser alert to let the user know that the form submission was successful. I included some additional text to let the user know that the information they submitted was not being used and that this was for educational purposes only.<br /><br />
-    
+
     ![Form 404 Solved](assets/readme-images/form-alert-image.png)
 
 
