@@ -145,6 +145,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.<br /><br />
     
 ![Footer image](assets/readme-images/contact-image.png)
+
 ![Footer image](assets/readme-images/contact-responsive-image.png)
 
 [Back to top](<#contents>)
