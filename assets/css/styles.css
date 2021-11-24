@@ -574,7 +574,7 @@ footer h2 {
   }
 
   .benefits-container ul li {
-    font-size: 0.97em;
+    font-size: 0.8em;
   }
 
   .benefits-container ul {
@@ -591,8 +591,8 @@ footer h2 {
     padding: 0em 2em 2em 2em;
   }
 
-  .tutorial-steps ul {
-    display: none;
+  .tutorial-steps ul li {
+    font-size: 0.8em;
   }
 
   .tutorial-steps h2 {
@@ -600,15 +600,27 @@ footer h2 {
   }
 
   .quote-container h3 {
+    font-size: 0.8em;
+  }
+
+  .profile-container p {
+    font-size: 0.8em;
+  }
+
+  form label {
+    font-size: 1em;
+  }
+
+  .form-btn {
     font-size: 1em;
   }
 
   p {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   h2 {
-    font-size: 1.125em;
+    font-size: 1em;
   }
 
   .footer-container h2 {
