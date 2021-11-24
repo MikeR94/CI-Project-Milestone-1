@@ -45,9 +45,13 @@
 
 In my first project I intend to provide a professionally developed website for users to find out about Yoga. The main objective is to demonstrate competency in HTML and CSS alongside showcasing attention to detail and the importance of thorough testing.
 
+[Back to top](<#contents>)
+
 # Brief
 
 Reflection is a small independant company that advertises and encourages new users to step into the wonderful world of Yoga. This site is target at individuals who have not yet tried Yoga and are looking for some help, guidance and inspiration to give it a go. Reflection is a brilliant source for people around the world to find out information about Yoga with the ability to get in touch and seek for further guidance on how to get started.
+
+[Back to top](<#contents>)
 
 # User Experience (UX)
 
