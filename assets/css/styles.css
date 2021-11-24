@@ -302,6 +302,9 @@ textarea {
   transition: all 300ms ease;
   margin-bottom: 1.25em;
   margin-top: 0.5em;
+}
+
+textarea {
   resize: none;
 }
 
