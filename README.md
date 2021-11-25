@@ -1,6 +1,6 @@
 # **_Reflection - Project Portfolio 1 - HTML & CSS_**
 
-Reflection is a small independant company that advertises and encourages new users to step into the wonderful world of Yoga. This site is target at individuals who have not yet tried Yoga and are looking for some help, guidance and inspiration to give it a go. Reflection is a brilliant source for people around the world to find out information about Yoga with the ability to get in touch and seek for further guidance on how to get started.
+Reflection is a small independent company that advertises and encourages new users to step into the wonderful world of Yoga. This site is target at individuals who have not yet tried Yoga and are looking for some help, guidance and inspiration to give it a go. Reflection is a brilliant source for people around the world to find out information about Yoga with the ability to get in touch and seek for further guidance on how to get started.
 
 You can view the live site here - <a href="https://miker94.github.io/CI-Project-Portfolio-1/" target="_blank" rel="noopener">Reflection</a>
 
@@ -10,7 +10,7 @@ You can view the live site here - <a href="https://miker94.github.io/CI-Project-
 
 * [**Objective**](<#objective>)
 * [**User Experience UX**](<#user-experience-ux>)
-    * [Design Protoype](<#design-prototype>)
+    * [Design Prototype](<#design-prototype>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
     *  [Typography](<#typography>)
@@ -34,7 +34,7 @@ You can view the live site here - <a href="https://miker94.github.io/CI-Project-
 * [**Credits**](<#credits>)
     * [**Content**](<#content>)
     * [**Media**](<#media>)
-*  [**Acknowledgements**](<#acknowledgements>)
+*  [**Acknowledgments**](<#acknowledgements>)
 
 
 # Objective
@@ -47,7 +47,7 @@ In my first project I intend to provide a professionally developed website for u
 
 ## Design Prototype
 
-The design prototype for Reflection was produced in [Figma](https://www.figma.com/). There are design prototypes for Desktop, Mobile and Laptop. The final site varies slightly from the design prototype due to developments that occured during the creation process and also from gaining valuable feedback from others.<br /><br />
+The design prototype for Reflection was produced in [Figma](https://www.figma.com/). There are design prototypes for Desktop, Mobile and Laptop. The final site varies slightly from the design prototype due to developments that occurred during the creation process and also from gaining valuable feedback from others.<br /><br />
 
 ![Design Prototype Preview](assets/readme-images/design-prototype.png)
 
@@ -56,14 +56,14 @@ The design prototype for Reflection was produced in [Figma](https://www.figma.co
 
 ## Site Structure
 
-The website Reflection is a one page website that has 4 navigation links for the user to use. The [Home Page](index.html) is the default loading page and the subsequent sections of the home page are **About**, **Try Now** and **Contact**. The pages are all accessible primarily from the navigation menu however the user simply has to scroll down the website and they will visit these sections in the order above.
+The website Reflection is a one-page website that has 4 navigation links for the user to use. The [Home Page](index.html) is the default loading page and the subsequent sections of the home page are **About**, **Try Now** and **Contact**. The pages are all accessible primarily from the navigation menu however the user simply has to scroll down the website, and they will visit these sections in the order above.
 
 [Back to top](<#contents>)
 ## Design Choices
 
  * ### Typography
       The fonts chosen were 'Poppins' for the headings and for the body text however different font-weights and font-sizes were used to give further clarity. They fall back to sans-serif respectively if the Poppins font can't be loaded. 
-     *  'Poppins' was chosen for the primarily to give the user an inital welcoming feel. The font-style is very modern and clean and gives a professional and inviting feeling to the website.
+     *  'Poppins' was chosen for the primarily to give the user an initial welcoming feel. The font-style is very modern and clean and gives a professional and inviting feeling to the website.
 
 
  * ### Colour Scheme
@@ -115,7 +115,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
   * ### About
     * The About section lets the user know immediately what Yoga is, are they able partake and also provides a list of benefits from doing Yoga.
-    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga. It is fully responsive and splits into 2 columns at 1028px wide and then into 1 single column at 792px wide<br /><br /> 
+    * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga. It is fully responsive and splits into 2 columns at 1028px wide and then into 1 single column at 792px wide.<br /><br /> 
 
 <details><summary><b>Desktop About Image</b></summary>
 
@@ -160,7 +160,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 * ### Contact
     
     * The contact form was designed with simplicity in mind. It has 4 input fields, these being Name, Email Address, How Can We Help and Message. 
-    * The contact section is fully responsive and removes the the image and the text on the right hand side when the device width can no longer accomodate them. At this point, the form will be centralised.
+    * The contact section is fully responsive and removes the the image and the text on the right-hand side when the device width can no longer accommodate them. At this point, the form will be centralised.
     * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.<br /><br />
     
 <details><summary><b>Desktop Contact Image</b></summary>
@@ -176,7 +176,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 [Back to top](<#contents>)
 * ### Footer
     
-    * Contains social media links. To enhance the UX, the links open in seperate tabs.
+    * Contains social media links. To enhance the UX, the links open in separate tabs.
     * The Facebook, Twitter, Youtube and Instagram social links are there for the educational side of this project and navigate the user to the home page of each respected site. They would be changed to re-direct the user to the respective Reflection social media if this site was deployed outside of this project.<br /><br />
 
 <details><summary><b>Desktop Footer Image</b></summary>
@@ -205,12 +205,12 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ### Latest News
 
-    * The latest news section would be displayed on the main page but only show the most recent and appropiate headlines.
+    * The latest news section would be displayed on the main page but only show the most recent and appropriate headlines.
     A small link with the text "read more" will then re-direct the user to the full news article. 
 
 * ### Newsletter
 
-    * A simple newsletter section that would allow the user to opt-in to monthly emails sent out by Reflection on the latest and best things about Yoga and the business
+    * A simple newsletter section that would allow the user to opt-in to monthly emails sent out by Reflection on the latest and best things about Yoga and the business.
 
 [Back to top](<#contents>)
 
@@ -232,7 +232,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Code Validation
 
-    * The Reflection website has be throughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately and documented below.<br /><br />
+    * The Reflection website has been thoroughly tested. All the code has been validated via the [W3C HTML Validator](https://validator.w3.org/), the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/). 3 minor errors were found on the index.html when tested on [HTML Validation](https://validator.w3.org/) but were fixed immediately and documented below.<br /><br />
 
 * ### HTML Validation Image
 
@@ -248,9 +248,9 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 * ## Lighthouse Testing 
 
-    * Futhermore the website has been through the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and [Microsoft Edge Dev Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) Lighthouse Testing which tests the website for the following
+    * Furthermore the website has been through the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and [Microsoft Edge Dev Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) Lighthouse Testing which tests the website for the following:
         * Performance - How the page performs whilst loading.
-        * Accessibility - Is the site acccessible for all users and how can it be improved.
+        * Accessibility - Is the site accessible for all users and how can it be improved.
         * Best Practices - Site conforms to industry best practices.
         * SEO - Search Engine Optimisation. Is the site optimised for search engine result rankings.<br /><br />
 
@@ -365,23 +365,23 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
     ![FavIcon Issue](assets/readme-images/favicon-issue-image.png)
 
-     * After implementing the favicon, the console error had disappeared<br /><br />
+     * After implementing the favicon, the console error had disappeared.<br /><br />
 
     ![FavIcon Solved](assets/readme-images/favicon-solved-image.png)
 
     ### HTML Validation
     
-    * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors<br /><br />
+    * After putting the website through [HTML Validation](https://validator.w3.org/), I was presented with the following errors below:<br /><br />
 
     ![Frameborder Error](assets/readme-images/frameborder-error-image.png)
 
-    * It said that the frameborder attribute on the iframe element ID is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors<br /><br />
+    * It said that the frameborder attribute on the iframe element ID is obsolete so after removing the frameborder attribute in the HTML code, it returned with no errors.<br /><br />
 
     ![Frameborder Solved](assets/readme-images/html-validation-image.png)
     
     ### Form 404
     
-    * When testing the form, I noticed that when the users click the submit button it will re-direct them to another page and display the below error <br /><br />
+    * When testing the form, I noticed that when the users click the submit button it will re-direct them to another page and display the below error: <br /><br />
 
     ![Form 404 Error](assets/readme-images/form-404-error-image.png)
 
@@ -391,13 +391,13 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 
 
 * ## Bugs Unresolved  
-    * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 seperate issues.<br /><br />
+    * When inspecting the website with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and selecting issues and then include third-party cookie issues, the website is showing to have 2 separate issues.<br /><br />
 
     ![Site Issue](assets/readme-images/site-issues-image.png)
     
-    * As for the cookie issue and what is causing this, I found some very good information on [StackOverflow](https://stackoverflow.com/questions/60822936/where-to-add-samesite-none). It seems to be a server side issue and there is nothing that I can do from the client side to properly recitify the issue. There is one way to to mitigate this issue but it is not a proper solution and that is to disable Cookie Deprecation through chrome://flags.
+    * As for the cookie issue and what is causing this, I found some very good information on [StackOverflow](https://stackoverflow.com/questions/60822936/where-to-add-samesite-none). It seems to be a server side issue and there is nothing that I can do from the client side to properly rectify the issue. There is one way to mitigate this issue but it is not a proper solution and that is to disable Cookie Deprecation through chrome://flags.
 
-    * As for the navigator issue, I have narrowed this down to the Youtube videos that I have embedded on the site. I've done some research and apparently this is a Google Chrome issue as per this [source](https://forum.codewithmosh.com/t/the-ultimate-javascript-console-issue-at-beginning-of-course/6535) and has been reported [here](https://githubmemory.com/repo/zalmoxisus/redux-devtools-extension/issues/808). Additionally I have tested this website with Microsoft Edge and the issue doesn't show.
+    * As for the navigator issue, I have narrowed this down to the Youtube videos that I have embedded on the site. I've done some research and apparently this is a Google Chrome issue as per this [source](https://forum.codewithmosh.com/t/the-ultimate-javascript-console-issue-at-beginning-of-course/6535) and has been reported [here](https://githubmemory.com/repo/zalmoxisus/redux-devtools-extension/issues/808). Additionally, I have tested this website with Microsoft Edge and the issue doesn't show.
 
 [Back to top](<#contents>)
 
@@ -406,7 +406,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  2. Once in Settings, navigate to the **Pages** tab on the left-hand side.
   3. Under **Source**, select the branch to **master**, then click **save**.
   4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
@@ -418,7 +418,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 1. Log in to **GitHub** and locate the [repository](https://github.com/MikeR94/CI-Project-Portfolio-1).
-2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+2. On the right-hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 
 <details><summary><b>Git Fork Preview Image</b></summary>
 
@@ -462,7 +462,7 @@ The live link to the Github repository can be found here - https://github.com/Mi
 
 [Back to top](<#contents>)
 
-# Acknowledgements
+# Acknowledgments
 The site was completed as a part of a Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/) and is my Portfolio Project 1. I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my educator [Luke Walters](https://www.linkedin.com/in/luke-walters-leatherbarrow-531107101/), and my brother [Jack Ralph](https://www.linkedin.com/in/jackthomasralph/), the Slack community, and all at the Code Institute for their help and support. Building Reflection taught me so much and now I feel so much more confident when it comes to designing, building, testing and deploying a fully functioning website.
 
 Mike Ralph 2021.
