@@ -83,17 +83,17 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * Located at the top of the website and stays on the screen at all times, it is fully responsive and contains links to all the sections of the site to enable ease of navigation in one convenient location.
     * The logo is clickable with a link back to the home page for enhanced UX.<br /><br />
 
-<details><summary>Desktop Navigation Bar Image</summary>
+<details><summary><b>Desktop Navigation Bar Image</b></summary>
 
 ![Navigation Bar Desktop Image](assets/readme-images/nav-bar-desktop-image.png)
 </details><br />
 
-<details><summary>Responsive Navigation Bar Image</summary>
+<details><summary><b>Responsive Navigation Bar Image</b></summary>
 
 ![Navigation Bar Responsive Image](assets/readme-images/nav-bar-responsive-image.png)
 </details><br />
 
-<details><summary>Responsive Navigation Bar Dropdown Image</summary>
+<details><summary><b>Responsive Navigation Bar Dropdown Image</b></summary>
 
 ![Navigation Bar Responsive Image](assets/readme-images/nav-bar-responsive-open-image.png)
 </details><br />
@@ -106,7 +106,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
       * In the middle of the image is a catchy and appealing slogan to further clarify to the user that this website is about Yoga.
       * Beneath the slogan is a simple yet effective button that encourages the user to "Learn More". Clicking this button will scroll the user down to the About section where the user will gain further information regarding Yoga and it's benefits.<br /><br />
 
-<details><summary>Hero Desktop Home/Landing Page Image</summary>
+<details><summary><b>Hero Desktop Home/Landing Page Image</b></summary>
 
 ![Hero Image](assets/readme-images/hero-image.jpg)
 </details><br />
@@ -117,17 +117,17 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * The About section lets the user know immediately what Yoga is, are they able partake and also provides a list of benefits from doing Yoga.
     * The Benefits section breaks up the website and entices the user to focus in on what the benefits are from partaking in Yoga. It is fully responsive and splits into 2 columns at 1028px wide and then into 1 single column at 792px wide<br /><br /> 
 
-<details><summary>Desktop About Image</summary>
+<details><summary><b>Desktop About Image</b></summary>
 
 ![About-Us image](assets/readme-images/about-image.png)
 </details><br />
 
-<details><summary>Benefits Section 2 Column Image</summary>
+<details><summary><b>Benefits Section 2 Column Image</b></summary>
 
 ![Benefits 2 Col Image](assets/readme-images/benefits-2-col-image.png)
 </details><br />
 
-<details><summary>Benefits Section 1 Column Image</summary>
+<details><summary><b>Benefits Section 1 Column Image</b></summary>
 
 ![Benefits 1 Col Image](assets/readme-images/benefits-1-col-image.png)
 </details><br />
@@ -140,17 +140,17 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * It is styled so that the user is presented with both a steps and a video tutorial which are side-by-side so the user can clearly identify which Yoga position they are doing.
     * The Try-It section has 3 different Yoga positions for the user to try and they are all displayed in this exact format for Desktop. As the screen width gets smaller, the position of the steps and videos will stack on top of each other to maintain a clean and positive experience for the user.<br /><br />
 
-<details><summary>Desktop Try It Section Image</summary>
+<details><summary><b>Desktop Try It Section Image</b></summary>
 
 ![Try It Desktop](assets/readme-images/try-it-image.png)
 </details><br />
 
-<details><summary>Responsive Try It Section Image</summary>
+<details><summary><b>Responsive Try It Section Image</b></summary>
 
 ![Try It Responsive](assets/readme-images/try-it-responsive-image.png)
 </details><br />
 
-<details><summary>Mobile Try It Section Image</summary>
+<details><summary><b>Mobile Try It Section Image</b></summary>
 
 ![Try It Mobile](assets/readme-images/try-it-mobile-image.png)
 </details><br />
@@ -163,12 +163,12 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * The contact section is fully responsive and removes the the image and the text on the right hand side when the device width can no longer accomodate them. At this point, the form will be centralised.
     * Just below the contact section is a quote from a famous Yoga practitioner. This is to give the user some inspiration and confidence to attempt Yoga for themselves. It also provides breathing space between the contact-form and the footer of the page so the colours don't look too aggressive together.<br /><br />
     
-<details><summary>Desktop Contact Image</summary>
+<details><summary><b>Desktop Contact Image</b></summary>
 
 ![Contact Image Desktop](assets/readme-images/contact-image.png)
 </details><br />
 
-<details><summary>Responsive Contact Image</summary>
+<details><summary><b>Responsive Contact Image</b></summary>
 
 ![Contact Image Responsive](assets/readme-images/contact-responsive-image.png)
 </details><br />
@@ -179,12 +179,12 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
     * Contains social media links. To enhance the UX, the links open in seperate tabs.
     * The Facebook, Twitter, Youtube and Instagram social links are there for the educational side of this project and navigate the user to the home page of each respected site. They would be changed to re-direct the user to the respective Reflection social media if this site was deployed outside of this project.<br /><br />
 
-<details><summary>Desktop Footer Image</summary>
+<details><summary><b>Desktop Footer Image</b></summary>
 
 ![Footer image](assets/readme-images/footer-desktop-image.png)
 </details><br />
 
-<details><summary>Responsive Footer Image</summary>
+<details><summary><b>Responsive Footer Image</b></summary>
 
 ![Footer image](assets/readme-images/footer-responsive-image.png)
 </details><br />
