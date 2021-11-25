@@ -351,7 +351,7 @@ The Reflection website is set up to be welcoming and easy to use. It contains ma
         <br /><br />
 
 * ## Browser Compatibility
-    * The website has been manually tested on the the following browsers and was presented with no issues.
+    * The website has had manual and responsive tests conducted on the below browsers with additional Lighthouse testing on Google Chrome and Microsoft Edge and I was presented with no issues.
         * Google Chrome
         * Microsoft Edge
         * Safari
