@@ -4,11 +4,11 @@
 
 # Live Site
 
-<a href="https://miker94.github.io/CI-Project-Milestone-1/index.html" target="_blank" rel="noopener">Reflection</a>
+<a href="https://miker94.github.io/CI-Project-Portfolio-1/" target="_blank" rel="noopener">Reflection</a>
 
 # Repository
 
-[https://github.com/MikeR94/CI-Project-Milestone-1](https://github.com/MikeR94/CI-Project-Milestone-1)
+[https://github.com/MikeR94/CI-Project-Portfolio-1](https://github.com/MikeR94/CI-Project-Portfolio-1)
 
 # Contents
 
@@ -379,11 +379,11 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
   3. Under **Source**, select the branch to **master**, then click **save**.
   4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-  The live link to the Github repository can be found here - https://github.com/MikeR94/CI-Project-Milestone-1
+  The live link to the Github repository can be found here - https://github.com/MikeR94/CI-Project-Portfolio-1
 
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
-1. Log in to **GitHub** and locate the [repository](https://github.com/MikeR94/CI-Project-Milestone-1).
+1. Log in to **GitHub** and locate the [repository](https://github.com/MikeR94/CI-Project-Portfolio-1).
 2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 
 ### **To create a local clone of this project**
@@ -417,7 +417,7 @@ The method from cloning a project from GitHub is below:
 [Back to top](<#contents>)
 
 # Acknowledgements
-The site was completed as a part of a Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/) and is my Portfolio Project Milestone 1. I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my educator [Luke Walters](https://www.linkedin.com/in/luke-walters-leatherbarrow-531107101/), and my brother [Jack Ralph](https://www.linkedin.com/in/jackthomasralph/), the Slack community, and all at the Code Institute for their help and support. Building Reflection taught me so much and now I feel so much more confident when it comes to designing, building, testing and deploying a fully functioning website.
+The site was completed as a part of a Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/) and is my Portfolio Project 1. I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my educator [Luke Walters](https://www.linkedin.com/in/luke-walters-leatherbarrow-531107101/), and my brother [Jack Ralph](https://www.linkedin.com/in/jackthomasralph/), the Slack community, and all at the Code Institute for their help and support. Building Reflection taught me so much and now I feel so much more confident when it comes to designing, building, testing and deploying a fully functioning website.
 
 Mike Ralph 2021.
 
